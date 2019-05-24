@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://niecaezooh.nescafesucks.com/sitemap.xml
